@@ -1,1 +1,16 @@
+Subject: Escalation – Critical Security Alert Detected
 
+A critical security alert has been detected on the monitoring dashboard.
+
+Alert Details:
+Alert Type: Log4Shell Exploit Attempt
+Source IP: 192.168.1.100
+Affected System: Web Server
+CVSS Score: 9.8 (Critical)
+
+Initial analysis indicates an attempted exploitation of the Log4Shell vulnerability. Due to the severity of this vulnerability and its potential impact, this alert requires immediate investigation.
+
+Requesting escalation to Tier 2 SOC analysts for further investigation and response.
+
+Regards,
+SOC Analyst
