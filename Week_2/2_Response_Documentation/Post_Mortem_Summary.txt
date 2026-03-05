@@ -1,0 +1,10 @@
+Post-Mortem Summary
+
+A brute-force SSH attack was detected by the monitoring system. The alert was triggered after multiple failed login attempts from a suspicious IP address. The SOC analyst investigated authentication logs and confirmed repeated login failures.
+
+No successful login attempts were identified and no system compromise occurred.
+
+To reduce the risk of similar attacks in the future, the following improvements are recommended:
+- Implement SSH rate limiting
+- Enable multi-factor authentication (MFA)
+- Use SSH key-based authentication instead of passwords
