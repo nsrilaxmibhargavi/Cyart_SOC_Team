@@ -1,0 +1,18 @@
+{
+  "title": "SSH Brute Force Attack Detected",
+  "description": "Multiple failed SSH login attempts detected from suspicious IP.",
+  "severity": "Medium",
+  "status": "Open",
+  "source_ip": "192.168.1.100",
+  "destination_system": "Linux Server",
+  "detected_by": "Wazuh SIEM",
+  "timestamp": "2025-08-18 11:00:00",
+  "mitre_attack": {
+    "technique_id": "T1110",
+    "technique_name": "Brute Force"
+  },
+  "iocs": [
+    "192.168.1.100"
+  ],
+  "assigned_to": "SOC Analyst"
+}
