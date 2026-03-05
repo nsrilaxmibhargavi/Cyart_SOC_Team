@@ -68,7 +68,3 @@ A complete simulated SOC workflow including attack detection, investigation, res
 
 ---
 
-## Author
-
-SOC Intern – CyArt  
-Week 2 Practical Security Operations Lab
