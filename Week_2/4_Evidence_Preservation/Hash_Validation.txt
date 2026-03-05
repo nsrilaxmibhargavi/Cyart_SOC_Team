@@ -1,0 +1,11 @@
+Hash Validation Report
+
+Evidence file: memory_dump_server_x.raw
+
+Hash Algorithm: SHA256
+
+Calculated Hash:
+abc123def4567890abcdef1234567890abcdef1234567890abcdef1234567890
+
+Purpose:
+Hash verification ensures that the evidence file has not been modified after collection. Maintaining hash integrity is critical for digital forensic investigations.
