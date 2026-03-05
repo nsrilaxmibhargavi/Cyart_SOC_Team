@@ -1,0 +1,6 @@
+Timestamp,Action,Analyst
+2025-08-18 11:00:00,Security alert triggered in SIEM,SOC Analyst
+2025-08-18 11:05:00,Started investigation of SSH login attempts,SOC Analyst
+2025-08-18 11:10:00,Reviewed authentication logs,SOC Analyst
+2025-08-18 11:15:00,Identified suspicious source IP 192.168.1.100,SOC Analyst
+2025-08-18 11:20:00,Recommended monitoring and further analysis,SOC Analyst
