@@ -1,0 +1,9 @@
+GeoIP Log Enrichment Summary
+
+Log enrichment was performed by adding geolocation context to the source IP addresses observed in the logs. Using a GeoIP lookup mechanism, the IP address 192.168.1.100 was analyzed to determine its potential origin.
+
+Although the address belongs to a private internal network range, GeoIP enrichment techniques are commonly used in SOC environments to identify the geographic origin of external IP addresses.
+
+Adding geolocation data to logs helps analysts quickly identify suspicious login attempts originating from unusual countries or regions. This context improves investigation speed and helps prioritize alerts during incident response.
+
+Log enrichment techniques such as GeoIP, user role tagging, and asset classification provide additional context that improves security monitoring and threat detection capabilities.
