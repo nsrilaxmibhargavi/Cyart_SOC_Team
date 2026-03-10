@@ -1,0 +1,9 @@
+IOC Validation Summary
+
+During alert triage, indicators of compromise (IOCs) were validated using threat intelligence platforms such as VirusTotal and AlienVault OTX.
+
+The suspicious IP address 192.168.1.101 associated with the alert "Suspicious PowerShell Execution" was checked against threat intelligence sources. The lookup indicated that the IP address had been previously reported in security databases related to malicious activity.
+
+Threat intelligence validation helps SOC analysts determine whether an alert is likely a true positive or a false positive. By correlating alerts with external intelligence sources, analysts can prioritize investigations and respond to threats more efficiently.
+
+This process improves detection accuracy and supports faster incident response.
