@@ -1,0 +1,4 @@
+Alert_ID,IP_Address,Reputation_Source,Reputation_Status,Notes
+003,192.168.1.100,AlienVault OTX,Malicious,IP associated with command and control activity
+004,185.220.101.1,VirusTotal,Suspicious,Known TOR exit node often used for anonymous traffic
+005,8.8.8.8,OTX,Benign,Legitimate DNS server
