@@ -1,0 +1,9 @@
+Threat Intelligence Feed Integration Summary
+
+Threat intelligence feeds provide valuable information about known malicious indicators such as IP addresses, domain names, and file hashes. In this exercise, threat intelligence from AlienVault OTX was used to enrich security alerts.
+
+When a suspicious IP address appears in security logs, analysts can cross-reference the address with threat intelligence platforms like OTX or VirusTotal to determine whether the IP has been associated with malicious activity.
+
+For example, the IP address 192.168.1.100 was checked against threat intelligence sources. The lookup indicated that the IP could be linked to command-and-control communication activity.
+
+Integrating threat intelligence feeds into SIEM platforms allows SOC teams to automatically enrich alerts and prioritize incidents based on known threat indicators. This improves detection accuracy and reduces investigation time.
