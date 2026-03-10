@@ -1,0 +1,9 @@
+Hash Validation Summary
+
+To ensure the integrity of collected evidence, cryptographic hashing was performed on the acquired data. The SHA-256 hashing algorithm was used to generate a unique hash value for each evidence file.
+
+Hash validation ensures that the collected evidence has not been altered during storage or analysis. If the hash value changes, it indicates that the file integrity has been compromised.
+
+During the investigation process, the memory dump collected from Server-Y was hashed and recorded in the evidence documentation table. This allows investigators to verify the authenticity of the evidence throughout the incident response process.
+
+Maintaining evidence integrity is a critical step in digital forensics and incident response.
