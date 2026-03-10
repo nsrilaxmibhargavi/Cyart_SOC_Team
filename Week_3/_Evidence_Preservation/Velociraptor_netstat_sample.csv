@@ -1,0 +1,5 @@
+Protocol,Local_Address,Local_Port,Foreign_Address,Foreign_Port,State,Process
+TCP,192.168.1.10,445,192.168.1.101,52344,ESTABLISHED,svchost.exe
+TCP,192.168.1.10,22,192.168.1.102,54231,ESTABLISHED,sshd
+TCP,192.168.1.10,80,192.168.1.103,53122,ESTABLISHED,apache2
+UDP,192.168.1.10,53,8.8.8.8,53,OPEN,dns_service
