@@ -1,0 +1,9 @@
+Anomaly Detection Summary
+
+During log analysis, unusual authentication behavior was identified. Multiple failed login attempts (Event ID 4625) were observed from the same source IP address within a short time period.
+
+Such patterns may indicate a brute-force attack or unauthorized login attempt. Repeated authentication failures can signal malicious activity, especially when followed by outbound network communication.
+
+Additionally, outbound DNS traffic to external IP addresses was observed shortly after the authentication attempts. This could indicate potential command-and-control communication or reconnaissance activity.
+
+Monitoring anomalies such as unusual login times, repeated authentication failures, and abnormal network connections helps SOC analysts detect potential security incidents early.
