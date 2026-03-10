@@ -1,0 +1,5 @@
+A simulated security incident involving unauthorized access attempts was detected on the internal network. Security monitoring systems identified suspicious authentication attempts originating from an external IP address.
+
+The SOC team investigated the activity, validated the threat using threat intelligence platforms, and implemented containment measures by blocking the attacker’s IP address.
+
+The incident was escalated to Tier 2 analysts for deeper investigation. No systems were compromised during the simulation.
