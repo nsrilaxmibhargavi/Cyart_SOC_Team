@@ -1,0 +1,4 @@
+Timestamp,Event_ID,Source_IP,Destination_IP,Description,Notes
+2026-03-09 12:00:00,4625,192.168.1.100,192.168.1.10,Failed login attempt,Suspicious authentication attempt
+2026-03-09 12:01:30,4625,192.168.1.100,192.168.1.10,Multiple failed login attempts,Possible brute force attack
+2026-03-09 12:02:10,5156,192.168.1.100,8.8.8.8,Suspicious outbound DNS request,Possible command and control activity
