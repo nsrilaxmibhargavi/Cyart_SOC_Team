@@ -1,0 +1,9 @@
+Threat Hunting Summary
+
+Threat hunting is a proactive security activity where analysts search through logs and system data to identify potential threats that may not have triggered alerts.
+
+During this exercise, logs were analyzed to identify suspicious authentication behavior related to MITRE ATT&CK technique T1078 (Valid Accounts). This technique involves attackers using legitimate credentials to gain unauthorized access to systems.
+
+By reviewing authentication logs, analysts can detect abnormal login patterns such as logins from unusual locations, multiple failed login attempts followed by a successful login, or logins occurring outside normal working hours.
+
+Threat intelligence and behavioral analysis together help SOC analysts identify hidden threats before they escalate into serious security incidents.
