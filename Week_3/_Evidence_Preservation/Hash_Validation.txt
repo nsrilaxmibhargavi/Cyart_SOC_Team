@@ -1,9 +1,11 @@
-Hash Validation Summary
+Hash Validation
 
-To ensure the integrity of collected evidence, cryptographic hashing was performed on the acquired data. The SHA-256 hashing algorithm was used to generate a unique hash value for each evidence file.
+A sample file hash was analyzed to verify integrity and detect malicious signatures.
 
-Hash validation ensures that the collected evidence has not been altered during storage or analysis. If the hash value changes, it indicates that the file integrity has been compromised.
+Tool Used: VirusTotal
 
-During the investigation process, the memory dump collected from Server-Y was hashed and recorded in the evidence documentation table. This allows investigators to verify the authenticity of the evidence throughout the incident response process.
+Result:
+The hash was checked against multiple threat intelligence sources.
 
-Maintaining evidence integrity is a critical step in digital forensics and incident response.
+Conclusion:
+No malicious detection found for the given hash.
