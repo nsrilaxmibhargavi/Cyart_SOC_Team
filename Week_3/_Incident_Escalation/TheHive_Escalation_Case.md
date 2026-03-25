@@ -10,7 +10,7 @@ INC-2026-003
 High
 
 ## Description
-Multiple failed login attempts were detected from the source IP address 192.168.1.100 targeting a critical internal server. Shortly after the authentication failures, suspicious outbound DNS traffic was observed.
+Multiple failed login attempts were detected from the source IP address 185.220.101.1 targeting a critical internal server. Shortly after the authentication failures, suspicious outbound DNS traffic was observed.
 
 This behavior suggests a possible brute-force attack followed by command-and-control communication attempts.
 
