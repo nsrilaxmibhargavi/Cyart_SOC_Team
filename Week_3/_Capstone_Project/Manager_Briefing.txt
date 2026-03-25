@@ -1,5 +1,7 @@
-A simulated security incident involving unauthorized access attempts was detected on the internal network. Security monitoring systems identified suspicious authentication attempts originating from an external IP address.
+A security incident involving multiple failed login attempts was detected on the system. The activity was analyzed and linked to a suspicious IP address (185.220.101.1).
 
-The SOC team investigated the activity, validated the threat using threat intelligence platforms, and implemented containment measures by blocking the attacker’s IP address.
+The incident was investigated using log analysis and threat intelligence tools. Alerts were classified based on severity, and appropriate actions were taken.
 
-The incident was escalated to Tier 2 analysts for deeper investigation. No systems were compromised during the simulation.
+The issue has been escalated to the security team for further monitoring and preventive measures. No confirmed system compromise was detected.
+
+Recommended actions include implementing account lockout policies and continuous monitoring of suspicious activity.
