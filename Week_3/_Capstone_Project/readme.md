@@ -1,17 +1,34 @@
-# Capstone Project – Full SOC Workflow Simulation
+# Capstone Project - SOC Workflow
 
-This project simulates a complete SOC investigation workflow including:
+## Overview
+This project demonstrates a complete Security Operations Center (SOC) workflow including detection, analysis, threat intelligence, alert triage, evidence collection, and incident escalation.
 
-• Attack simulation
+---
 
-• Alert detection
+## Steps Performed
 
-• Log analysis
+### 1. Attack Simulation
+Simulated failed login using runas command.
 
-• Threat intelligence validation
+### 2. Detection
+Detected Event ID 4625 in Event Viewer.
 
-• Incident response
+### 3. Log Analysis
+Analyzed failed login attempts indicating brute-force attack.
 
-• Escalation process
+### 4. Threat Intelligence
+Validated suspicious IP (185.220.101.1) using VirusTotal.
 
-The objective of this project is to demonstrate how SOC analysts detect and respond to potential cybersecurity incidents.
+### 5. Alert Triage
+Classified alerts based on severity and impact.
+
+### 6. Evidence Collection
+Analyzed network connections using netstat.
+
+### 7. Incident Escalation
+Escalated incident to Tier 2 SOC team.
+
+---
+
+## Conclusion
+The project successfully demonstrates a real-world SOC workflow with practical execution and analysis.
