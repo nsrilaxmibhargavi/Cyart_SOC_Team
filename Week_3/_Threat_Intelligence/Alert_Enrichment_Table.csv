@@ -1,4 +1,4 @@
 Alert_ID,IP_Address,Reputation_Source,Reputation_Status,Detection,Notes
 003,185.220.101.1,AlienVault OTX,Malicious,5/60,Associated with command and control activity
 004,185.220.101.1,VirusTotal,Suspicious,1/95,Known TOR exit node used for anonymized traffic
-005,8.8.8.8,VirusTotal,Benign,0/95,Legitimate DNS server
+005,8.8.8.8,VirusTotal,Suspicious,1/95,Minor detection observed; generally considered safe
