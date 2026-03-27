@@ -1,0 +1,6 @@
+Stage,Timestamp,Activity
+Attack,2026-03-27 12:00:00,Failed login attempt initiated
+Detection,2026-03-27 12:02:00,Event ID 4625 detected
+Analysis,2026-03-27 12:05:00,Log correlation performed
+Threat Intelligence,2026-03-27 12:07:00,IP analyzed in VirusTotal
+Response,2026-03-27 12:10:00,Incident escalated and IP blocked
