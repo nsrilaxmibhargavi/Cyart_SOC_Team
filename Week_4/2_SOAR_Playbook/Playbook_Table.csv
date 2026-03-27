@@ -1,0 +1,6 @@
+Step,Action,Tool Used,Status,Notes
+1,Receive Alert,SIEM,Success,Alert triggered for failed login
+2,Validate IP,VirusTotal,Success,IP identified as suspicious
+3,Check Logs,Event Viewer,Success,Multiple login failures detected
+4,Block IP,Firewall (Simulated),Success,IP marked for blocking
+5,Create Incident Ticket,TheHive (Simulated),Success,Case escalated to Tier 2
