@@ -1,1 +1,3 @@
-
+Item,Description,Collected By,Date,Hash Value
+Network Logs,Active network connections,Aiman,2026-03-27,ABC123XYZ456
+System Logs,Event Viewer Security Logs,Aiman,2026-03-27,DEF789XYZ123
