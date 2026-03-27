@@ -1,1 +1,5 @@
-
+Metric,Value,Description
+MTTD,2 hours,Time taken to detect incident
+MTTR,4 hours,Time taken to respond and contain incident
+False Positive Rate,5%,Percentage of alerts incorrectly flagged
+Dwell Time,6 hours,Time attacker remained undetected
