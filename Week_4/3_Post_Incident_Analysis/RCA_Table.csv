@@ -1,0 +1,6 @@
+Question,Answer
+Why did the incident occur?,Multiple failed login attempts detected
+Why were login attempts successful?,Weak authentication controls
+Why were controls weak?,No account lockout policy implemented
+Why was policy missing?,Lack of security configuration
+Why was configuration incomplete?,Insufficient security awareness and monitoring
