@@ -1,0 +1,4 @@
+Timestamp,User,Event ID,Activity,Notes
+2026-03-27 12:00:00,testuser,4625,Failed Login Attempt,Multiple failed attempts observed
+2026-03-27 12:05:00,testuser,4672,Special Privilege Assigned,Unexpected privilege escalation detected
+2026-03-27 12:10:00,testuser,4688,Process Creation,Suspicious PowerShell execution
